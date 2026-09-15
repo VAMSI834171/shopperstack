@@ -237,3 +237,4 @@ shopperstack/
 ```
 
 This separates **page objects**, **utilities**, and **test cases**, making the automation project easier to maintain.
+created by me
